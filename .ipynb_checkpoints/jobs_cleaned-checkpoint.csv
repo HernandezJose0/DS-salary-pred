@@ -1,0 +1,332 @@
+,Title,Company,Company_Rating,Location,Salary,Date,Description,Yearly,Hourly,Min_Salary,Max_Salary,Avg_Salary,Remote,State,Python,R_studio,Spark,Excel,SQL
+0,Analytics Data Entry Specialist - Digital Marketing (Remoto-...,Remoteco,,Remoto,"$13,000 - $14,000 al mes",2022-04-28,"Maintains data entry requirements by following data program techniques and procedures.
+ Preparing and sorting documents for data entry.",0,0,13000,14000,13500.0,0,Remoto,0,1,0,0,0
+1,SEO Specialist / Data Analyst (Remoto-México),Remoteco,,Remoto,"$19,000 - $20,000 al mes",2022-04-20,"Job Types: Full-time, Permanent.",0,0,19000,20000,19500.0,0,Remoto,0,1,0,0,0
+2,"Ejecutivo/a Comercial de TI, sin experiencia, Home Office",ATENCION AL CLIENTE Y VENTAS,3.9,"Remoto in Tlalpan, CDMX","$15,000 - $20,000 al mes",2022-04-29,"Identificación de Necesidad de acuerdo con el portafolio de Servicios de la empresa.
+ Identificación de Objetivos y fechas para toma de decisión de proyectos.",0,0,15000,20000,17500.0,0, CDMX,0,1,0,0,0
+3,Data Science,Ingenes,3.1,"Álvaro Obregón, CDMX","$20,000 - $25,000 al mes",2022-04-28,"Únete a este gran proyecto sumando con tu talento como DATA SCIENCE.
+ Llevar a cabo el control de presupuestos de operación de todas las sucursales.",0,0,20000,25000,22500.0,0, CDMX,0,1,0,0,0
+4,Data Analyst,Glitzi,,"Cuauhtémoc, CDMX","$15,000 - $20,000 al mes",2022-04-29,"Extracción de información de base de datos en MySQL.
+ Apoyo en la generación de reportes estadísticos, proyecciones y dashboards.
+ Manejo de macros en Excel.",0,0,15000,20000,17500.0,0, CDMX,0,1,0,1,1
+5,OFFICE MANAGER,ATENCION AL CLIENTE Y VENTAS,3.9,"Cuauhtémoc, CDMX","$25,000 - $50,000 al mes",2022-04-23,"This person must have at least three (3) years of office Management experience.
+ Excel efficiency is a HUGE plus.
+ Proven work experience at management level.",0,0,25000,50000,37500.0,0, CDMX,0,1,0,1,0
+6,Data Analyst Junior,Mensch México,,"Remoto in Miguel Hidalgo, CDMX","$14,000 al mes",2022-04-07,"Publicidad, Mercadotecnia, Estadística, Matemáticas, Actuaria, Economía y tienes experiencia en recolección y análisis de datos, uso de bases de datos,…",0,0,14000,14000,14000.0,0, CDMX,0,1,0,0,0
+7,Data Analyst,Consultoría en Sistemas,4.8,"Remoto in Guadalajara, Jal.","$40,000 - $50,000 al mes",2022-04-30,"Data Analytics con conocimientos en data warehouse.
+ Experiencia de 3 años en adelante manejando BI, desarrollo en SQL y excel avanzado.",0,0,40000,50000,45000.0,0, Jal.,0,1,0,1,1
+8,Consultor BI (MicroStrategy) - Remoto,Kodefree,,"Benito Juárez, CDMX","$50,000 al mes",2022-04-28,"3+ años de experiencia en análisis de datos.
+ 3+ años de experiencia propuesta de soluciones y saber trabajar con Dossiers.",0,0,50000,50000,50000.0,0, CDMX,0,1,0,0,0
+9,Prácticas/Residencias Data Science,Cross Border Xpress,4.0,"Tijuana, B.C.",$300 al día,2022-04-28,"Cross Border Xpress ""CBX"" es el Proyecto transfronterizo más innovador y excitante que jamás se haya construido entre dos países y es un símbolo de la…",0,0,300,300,300.0,0, B.C.,0,1,0,0,0
+10,Digital Marketing Analyst (Remoto - Mexico),Remoteco,,Remoto,"$20,000 - $29,000 al mes",2022-05-01,"Excellent Excel and data analysis skills, able to read, interpret and use data to inform ad strategies • Understanding of Google Analytics • Digital marketing…",0,0,20000,29000,24500.0,0,Remoto,0,1,0,1,0
+11,Inside Sales Representative,TelQuest International,,Remoto,"$42,000 - $80,000 al año",2022-04-27,"Ability to document, organize and summarize data in complete detail.
+ Facilitate the collection of data and information to be able to develop pricing proposals.",1,0,42000,80000,61000.0,0,Remoto,0,1,0,0,0
+12,"Data Engineer Operations (remoto, inglès conversacional)",Selecciona Talento,,"Los Mochis, Sin.","$60,000 al mes",2022-04-26,"Utilize best practices for data governance, data quality, data cleansing, and other ETL-related activities.*.
+ Additionally, this role will help build analytical…",0,0,60000,60000,60000.0,0, Sin.,0,1,0,0,0
+13,Administrative Assistant,Lot Squared Development,,"Remoto temporalmente in Ciudad Universitaria, CDMX","$18,000 al mes",2022-05-02,"Entering data into our systems.
+ We are looking for our next Administrative Assistant to join us full-time (40 hours) during our Eastern U.S. business hours from…",0,0,18000,18000,18000.0,0, CDMX,0,1,0,0,0
+14,ANALISTA DE MEJORA CONTINUA Jr.,Trejo & Asociados,,"Álvaro Obregón, CDMX","$13,000 al mes",2022-05-04,"Analizar y monitorear los indicadores de Calidad de las áreas de la organización, a través de la revisión de las bases operativas y exportables de plataformas…",0,0,13000,13000,13000.0,0, CDMX,0,1,0,0,0
+15,Remote - Executive Assistant,Homevault PM,,"Remoto in Guadalajara, Jal.","$24,000 - $28,000 al mes",2022-04-29,"Entering data and uploading documents to our management software.
+ This role is primarily an assistant position to Property Management, and to be successful in…",0,0,24000,28000,26000.0,0, Jal.,0,1,0,0,0
+16,Auxiliar de Recursos Humanos,Turing Inteligencia Artificial,,Remoto,"$5,000 - $8,000 al mes",2022-04-27,"Somos una empresa Consultora de Big Data en México, desde hace 13 años proporcionamos servicios en Business Analytics mediante Knowledge Discovery in Database …",0,0,5000,8000,6500.0,0,Remoto,0,1,0,0,0
+17,Wanted Marketing Assistant (with writing skills) (Remoto-Mex...,Remoteco,,Remoto,"$9,000 - $10,000 al mes",2022-04-29,"Report data from the client’s website.
+ We are looking for a smart, experienced and creative Marketing Assistant (with writing skills) to support one of our…",0,0,9000,10000,9500.0,0,Remoto,0,1,0,0,0
+18,Data Engineer bilingüe para sector financiero,CONSULTORIA PEÑA GUERRERO,,"Cuauhtémoc, CDMX","$11,111 - $11,112 al mes",2022-04-30,"Gran conocimiento en la manipulación de data warehouses, data wrangling o data tyding con grandes volúmenes de información.",0,0,11111,11112,11111.5,0, CDMX,0,1,0,0,0
+19,E-Commerce Associate,TelQuest International,,Remoto,"$35,000 - $40,000 al año",2022-04-27,"Must be proficient with Microsoft Excel (you will be tested on vlook-up, data manipulation -Math formulas).
+ You will work with our sales, marketing, operations,…",1,0,35000,40000,37500.0,0,Remoto,0,1,0,1,0
+20,Data Engineer Software,Atcon,,"Tlalpan, CDMX","$50,000 - $60,000 al mes",2022-04-27,"Un mínimo de dos años de lenguajes de programación (Python, Scala preferido) experiencia con los métodos de big data a gran escala (Spark, Hadoop stack, Cloud).",0,0,50000,60000,55000.0,0, CDMX,1,1,1,0,0
+21,Consultant - Business Analyst,Genpact,,Remoto,"$25,000 al mes",2022-04-04,"The position of Business Analyst role for Cox Infrastructure teams.
+ It requires the ability to successfully coordinate between the different Technology teams to…",0,0,25000,25000,25000.0,0,Remoto,0,1,0,0,0
+22,Bookkeeper (Remoto - Mexico),Remoteco,,Remoto,"$15,000 - $16,000 al mes",2022-04-30,"\* Essential data entry experience for starters.
+ We are looking for a Rockstart Bookkeeper with experience using QuickBooks, \*\*and an English level of C1.",0,0,15000,16000,15500.0,0,Remoto,0,1,0,0,0
+23,Data warehouse,Noralogic,,"Miguel Hidalgo, CDMX","$45,000 - $55,000 al mes",2022-05-04,"Conocimiento práctico de Collibra (workflow, cataloging, Api integration).
+ Programación de Python en Pyspark interface.
+ 4 días libres al año.",0,0,45000,55000,50000.0,0, CDMX,1,1,1,0,0
+24,Auxiliar de Marketing-Remoto,Turing Inteligencia Artificial,,Remoto,"$5,000 - $8,000 al mes",2022-04-28,"Somos una empresa Consultora de Big Data en México, desde hace 13 años proporcionamos servicios en Business Analytics mediante Knowledge Discovery in Database …",0,0,5000,8000,6500.0,0,Remoto,0,1,0,0,0
+25,Analista de Información/ Dominio en Data,Segmenta,4.3,"Naucalpan, Méx.","$12,000 - $16,000 al mes",2022-04-28,"\*Control de calidad de los resultados del proyecto.
+ Conocimientos: Bases de datos, Word, Excel avanzado, PowerPoint (nivel avanzado).",0,0,12000,16000,14000.0,0, Méx.,0,1,0,1,0
+26,Data Engineer - Home Office,Experis,3.5,"Remoto in Benito Juárez, CDMX","$50,000 - $60,000 al mes",2022-04-27,"Resolver desafíos con la ayuda de datos y tecnología.
+ Experiencia en la arquitectura y el diseño de soluciones que aprovechen los productos de Google Cloud,…",0,0,50000,60000,55000.0,0, CDMX,0,1,0,0,0
+27,Químico Analista,Pfizer,4.2,"Toluca, Méx.","$18,000 al mes",2022-04-30,"Disponibilidad para rolar turnos (08:00 a 17:00 y 15:00 a 23:00 h) y fines de semana.
+ Interesados aplicar directamente por este medio adjuntando CV en formato…",0,0,18000,18000,18000.0,0, Méx.,0,1,0,0,0
+28,Datapower,GRUPO LEEWAY,,"Remoto in Cuauhtémoc, CDMX","$45,000 al mes",2022-05-04,Vivir o sin problema en trasladarse a CDMX.,0,0,45000,45000,45000.0,0, CDMX,0,1,0,0,0
+29,TRAINEE DE CUENTAS (MARKETING DIGITAL),KEDMA COSMETICS,,"Miguel Hidalgo, CDMX","$7,000 al mes",2022-04-14,"Apoyo en la operación de las diferentes plataformas, campañas y herramientas (supermetrics, data studio).
+ Licenciatura concluida: Mercadotecnia, Administración,…",0,0,7000,7000,7000.0,0, CDMX,0,1,0,0,0
+30,Desarrollador DataPower,GRUPO LEEWAY,,"Remoto in Azcapotzalco, CDMX","$40,000 - $45,000 al mes",2022-05-04,Vivir o sin problema en trasladarse a CDMX.,0,0,40000,45000,42500.0,0, CDMX,0,1,0,0,0
+31,Data Engineer,TekProvider,,"Aguascalientes, Ags.+1 ubicación","$35,000 - $40,000 al mes",2022-04-20,"Conocimiento de bases de datos Big Data, SQL, Azure, Hive, Hadoop, Sqoop, Presto, Map/Reduce, PostgreSQL.
+ Experiencia en escribir consultas en grandes conjuntos…",0,0,35000,40000,37500.0,0, Ags.+1 ubicación,0,1,0,0,1
+32,Gerente de Ciencia en Datos,CPA VISION,2.0,"Miguel Hidalgo, CDMX+1 ubicación","$55,000 - $62,000 al mes",2022-04-29,"CPA Visión* es una empresa de tecnología especializada en la que resolvemos y facilitamos problemas o procesos contables, fiscales y administrativos…",0,0,55000,62000,58500.0,0, CDMX+1 ubicación,0,1,0,0,0
+33,Data Analyst,Capital Empresarial Horizonte,,"Guadalajara, Jal.","$30,000 - $50,000 al mes",2022-05-01,"Escolaridad: * Ingeniería en Sistemas, Informática o afín.
+ Experiencia en la creación de documentación de TI con flujos de datos de los requisitos o procesos…",0,0,30000,50000,40000.0,0, Jal.,0,1,0,0,0
+34,Bookkeeper (Remote),Gordian Staffing,,"Remoto temporalmente in Guadalajara, Jal.","$15,000 - $20,000 al mes",2022-04-29,"Facilitate invoicing: data entry, transmitting invoices, and follow up until payment is received.
+ The Bookkeeper is a skilled position responsible for the…",0,0,15000,20000,17500.0,0, Jal.,0,1,0,0,0
+35,Analista de facturacion,Neolpharma,3.6,"Azcapotzalco, CDMX","$12,979 al mes",2022-04-08,"Disponibilidad para rolar turnos (mañana, tarde y noche).
+ Excel medio/avanzado (Tablas dinámicas, formulas avanzadas, base de datos y filtros de Data).",0,0,12979,12979,12979.0,0, CDMX,0,1,0,1,0
+36,Data Center Operator,SGF Global,3.9,Ciudad de México,"$30,000 al mes",2022-04-04,The working days preferences for this role are Tuesday to Saturday and could involve night working hours (no later than 11pm local time) Our client operates…,0,0,30000,30000,30000.0,0,Ciudad de México,0,1,0,0,0
+37,Desarrollador Python,SPEEDFC S DE RL DE CV,,"Querétaro, Qro.","$40,000 - $70,000 al mes",2022-05-01,"Command line programs for maintenance and data import/export operations.
+ To be successful in this role, you should work well in a team and have experience with…",0,0,40000,70000,55000.0,0, Qro.,0,1,0,0,0
+38,Gerente de Marketing,Morton Subastas SA de CV. Ciudad de México,,"11000, Colonia Lomas de Chapultepec, CDMX","$60,000 al mes",2022-04-30,"Dirigir al área de Diseño y administrar sus cargas de trabajo con base en actividades programadas.
+ Analisis estadistico y de datos duros (Data Analytics) para…",0,0,60000,60000,60000.0,0, Colonia Lomas de Chapultepec,0,1,0,0,0
+39,Writer,JANA Engineering Services de Mexico.,,"Querétaro, Qro.","$16,000 al mes",2022-04-30,"Fact-check any data collected during the research process.
+ Their duties include researching their subject, proofreading their drafts and updating a writing…",0,0,16000,16000,16000.0,0, Qro.,0,1,0,0,0
+40,Data Engineer,Servicios Integrales W,,"Azcapotzalco, CDMX","$77,000 al año",2022-04-04,"Conocimiento de bases de datos Big Data, SQL, Azure, Hive, Hadoop, Sqoop, Presto, Map/Reduce, PostgreSQL.
+ Conocimiento avanzado y experiencia probada con Python…",1,0,77000,77000,77000.0,0, CDMX,1,1,0,0,1
+41,Profesor Online,LatinHire,4.0,"Monterrey, N. L.",$175 - $325 por hora,2022-05-04,Se busca estudiante o profesional con conocimientos robustos en más de 40 materias para trabajar con estudiantes norteamericanos mediante tutorías dictadas en…,0,1,175,325,250.0,0, N. L.,0,1,0,0,0
+42,Staff Accountant,MD Medical Group,,"Remoto in Monterrey, N. L.","$20,000 - $35,000 al mes",2022-04-27,"Excellent analytical skills to manage large amounts of data.
+ PRIMARY FUNCTION: *The Staff Accountant is responsible for assisting with the GL accounting…",0,0,20000,35000,27500.0,0, N. L.,0,1,0,1,0
+43,136 Business Analyst gobierno de datos,ASTECI,,"Cuauhtémoc, CDMX","$30,000 - $34,000 al mes",2022-05-01,"Business Analyst en Gobierno de datos*.
+ Licenciatura en Sistemas o afín.
+ Orientado a resultados y autogestión.
+ 10 días de vacaciones desde el primer año.",0,0,30000,34000,32000.0,0, CDMX,0,1,0,0,0
+44,Ejecutivo Comercial TI,INTEGRADORES EN TICS S.A DE C.V,,"Cuauhtémoc, CDMX","$25,000 al mes",2022-04-28,"Esta vacante viene de la bolsa de empleo Talenteca.com.
+ Experiencia mínima de 2 años.
+ INDISPENSABLE comercializar soluciones de TI (Cloud, Seguridad, Backup,…",0,0,25000,25000,25000.0,0, CDMX,0,1,0,0,0
+45,Data Warehouse,GRUPO THS,,"Tijuana, B.C.","$45,000 al mes",2022-04-19,"Investigar, analizar, respaldar e implementar soluciones de bases de datos y cambios en la plataforma de data warehouse MS SQL Server/Snowflake Cloud.",0,0,45000,45000,45000.0,0, B.C.,0,1,0,0,1
+46,Service Desk N1 Jr,Kata Software,,"Álvaro Obregón, CDMX","$7,000 - $8,000 al mes",2022-04-04,"Tenemos presencia en Colombia, Ecuador y Perú.
+ 6 meses a 1 año de experiencia en mesa de ayuda (pueden ser prácticas profesionales).",0,0,7000,8000,7500.0,0, CDMX,0,1,0,0,0
+47,Influencer Marketing and Content Creator,TopFoxx,,"Guadalajara, Jal.",$144 - $246 por hora,2022-04-30,"Ability to analyze metrics, revenue and additional data to determine success and areas for improvement across campaigns and other marketing initiatives.",0,1,144,246,195.0,0, Jal.,0,1,0,0,0
+48,Data Engineer Analytics,Selecciona Talento,,"Miguel Hidalgo, CDMX","$60,000 al mes",2022-04-07,"*Design and build maintainable and scalable infrastructure for data extraction, preparation, and loading of data from backend services and web browser clients…",0,0,60000,60000,60000.0,0, CDMX,0,1,0,0,0
+49,Practicante de Actuaria,Solistica,3.7,"Monterrey, N. L.","$8,000 al mes",2022-04-29,"En FEMSA, Solistica, Coca-Cola FEMSA, FEMSA Comercio, y Al Punto TODOS los procesos de reclutamiento y selección de personal son GRATUITOS para todos los…",0,0,8000,8000,8000.0,0, N. L.,0,1,0,0,0
+50,Key Account Executive / retail / eCommerce,Alameda,,"Remoto in Cuauhtémoc, CDMX","$15,000 - $18,000 al mes",2022-05-01,"Analizar la data para determinar el forecast de ventas y el inventario disponible en CEDIS.
+ Nos enfocamos en facilitar todo el proceso de compra de muebles y…",0,0,15000,18000,16500.0,0, CDMX,0,1,0,0,0
+51,Ingeniero en Sistemas,Consultores Estratégicos en PAM,,"León, Gto.","$18,000 - $20,000 al mes",2022-05-02,"Coordinar, supervisar y monitorear el buen funcionamiento y operación normal de los sistemas.
+ Mantención y soporte de los sistemas que están en operación.",0,0,18000,20000,19000.0,0, Gto.,0,1,0,0,0
+52,Analista de Costos y Presupuestos,Ingenes,3.1,"Álvaro Obregón, CDMX","$20,000 - $25,000 al mes",2022-05-02,"Por expansión estamos en búsqueda talento que sume a esta gran familia, talento que inspire, talento que comparta y viva nuestros valores, y sobre todo talento…",0,0,20000,25000,22500.0,0, CDMX,0,1,0,0,0
+53,Marketing Specialist,amuntalent,,"Playa del Carmen, QRoo.","$20,000 - $35,000 al mes",2022-04-28,"Lectura en analisis de marketing data y analytics( resultados de campañas, tasa de conversión, trafico, generación de leads, etc).",0,0,20000,35000,27500.0,0, QRoo.,0,1,0,0,0
+54,Product Engineer,Franklin Electric,3.8,"Guadalupe, N. L.","$30,000 - $40,000 al mes",2022-04-28,"You will be responsible for design maintenance, technical support, quality upgrades, and cost saving opportunities for electronic PCBAs used in current ""in…",0,0,30000,40000,35000.0,0, N. L.,0,1,0,0,0
+55,Product Manager - Parcel,99 Minutos,2.3,"11560, Colonia Polanco, CDMX","$60,000 - $70,000 al mes",2022-05-01,"Build, maintain, and regularly communicate detailed reporting for other leaders across the company who will use your team's data to inform their own operations…",0,0,60000,70000,65000.0,0, Colonia Polanco,0,1,0,0,0
+56,Data Engineer,Capital Empresarial Horizonte,,"Guadalajara, Jal.","$30,000 - $85,000 al año",2022-04-04,"Escolaridad: * Ingeniería en Sistemas, Informática o afín.
+ Experiencia en Lago de datos de Azure.
+ Experiencia en Almacén de datos de Azure.",1,0,30000,85000,57500.0,0, Jal.,0,1,0,0,0
+57,Nutriólogo: Educador en Diabetes,IQVIA,3.8,"Benito Juárez, CDMX","$17,000 al mes",2022-04-06,"Licenciatura en Nutrición (titulo y cedula).
+ Experiencia en plataformas virtuales (Teams, Zoom, Gotowebinar).
+ Experiencia en manejo de CRM (deseable).",0,0,17000,17000,17000.0,0, CDMX,0,1,0,0,0
+58,Customer Service Jr,Avery Dennison RBIS,,"Remoto in Querétaro, Qro.","$12,000 - $14,000 al mes",2022-04-23,"SUMMARY: The Order Processing position is responsible to enter all incoming orders and related data timely and correctly.
+ High School Diploma in BA/BS degree.",0,0,12000,14000,13000.0,0, Qro.,0,1,0,0,0
+59,Customer Service / Sales Representative (Remoto-Mexico),Remoteco,,Remoto,"$7,000 - $8,000 al mes",2022-04-30,"Register sale or no sale into our data entry portal.
+ Part Time Position (Full time is a possibility depending on how well you do).",0,0,7000,8000,7500.0,0,Remoto,0,1,0,0,0
+60,Virtual medical assistant scheduler,North American Production Sharing de México S.A....,4.0,"Remoto in Tijuana, B.C.","$20,000 al mes",2022-05-01,"They also will prep charts and collect data from outside providers prior to the telehealth appointment).
+ The Virtual medical assistant will call patients after…",0,0,20000,20000,20000.0,0, B.C.,0,1,0,0,0
+61,Data Analyst III,F5,,"Guadalajara, Jal.","$20,000 al mes",2022-04-30,"Ensure a high-level of data quality and accuracy across all relevant data sources.
+ Identify data source gaps and help define the business tools and processes to…",0,0,20000,20000,20000.0,0, Jal.,0,1,0,0,0
+62,Customer Service Account Manager (El Bajio Ind. Park.)Avocad...,TACNA/AVOCADO,,"Tecate, B.C.","$1,800 - $2,300 al día",2022-04-28,"Data entry, presentation creation, strategic planning, customer service as.
+ Leads in all aspects of daily shift management, including but not limited to.",0,0,1800,2300,2050.0,0, B.C.,0,1,0,0,0
+63,"Docente de Gestión de Tecnologías en ambientes de BigData, c...",ATENCION AL CLIENTE Y VENTAS,3.9,"Tlalpan, CDMX",$500 por hora,2022-04-04,"$ 500 por hora de clase impartida.
+ 2 clases por día de 3 horas cada una 10 am a 1 pm y de 3 a 6 pm.
+ Interesados/as, por favor, postularse por este medio.",0,1,500,500,500.0,0, CDMX,0,1,0,0,0
+64,Account Manager TI ITSM BPM o ERP,Reclutamiento IT,,"Miguel Hidalgo, CDMX","$30,000 al mes",2022-04-18,"Tendrás mucho apoyo del equipo gerencial, marketing y relacionamiento con fabricantes:
+ Del Valle y Home office (Hídrida).",0,0,30000,30000,30000.0,0, CDMX,0,1,0,0,0
+65,Analista de estrategia comercial,Recurso Confiable S.A de C.V,,"Tlalnepantla, Méx.","$20,000 al mes",2022-04-30,"Creación de dashboards (data studio) para indicadores comerciales y de marketing.
+ Gusto por el Marketing, el área comercial y el análisis de datos.",0,0,20000,20000,20000.0,0, Méx.,0,1,0,0,0
+66,Digital Marketing Director/Partner,Global Institute for Digital Competitiveness,,"Cuauhtémoc, CDMX+1 ubicación","$60,000 - $80,000 al mes",2022-04-26,"Horizones Consulting apoya a las organizaciones en su transformación, basada en la comprensión de las necesidades de las personas, la inteligencia de negocios y…",0,0,60000,80000,70000.0,0, CDMX+1 ubicación,0,1,0,0,0
+67,Search Director (Remoto - Mexico),Remoteco,,Remoto,"$20,000 - $24,000 al mes",2022-04-19,"Practical Understanding of keyword research and data mining tools.
+ Comfortable analyzing high volumes of data on a consistent basis.",0,0,20000,24000,22000.0,0,Remoto,0,1,0,0,0
+68,Data base / Data Center Engineer,Atos,3.5,"Monterrey, N. L.","$16,000 - $19,000 al mes",2022-04-26,"Physical Security - Verify that the non-enterprise data centers (DC) are not accessed by unauthorized individuals.
+ Uploads DCAR when DCAR agrees with IDMS.",0,0,16000,19000,17500.0,0, N. L.,0,1,0,0,0
+69,Quality Assurance Executive (power bi / data science),Masttro MX,,"San Pedro Garza García, N. L.","$60,000 - $70,000 al mes",2022-04-22,"Adquirir datos de fuentes de datos primarias o secundarias y mantener bases de datos.
+ Interpretación de datos, análisis de resultados.",0,0,60000,70000,65000.0,0, N. L.,0,1,0,0,0
+70,Desarrollador Power BI,Consultoría INTERAX,,"Hidalgo, Mich.+4 ubicaciones","$30,000 - $38,000 al mes",2022-04-30,"Experiencia en manejo de data warehouse o data lakes.
+ Microsoft Power BI - Microsoft Power Automate.
+ Análisis de información para modelado de datos.",0,0,30000,38000,34000.0,0, Mich.+4 ubicaciones,0,1,0,0,0
+71,Desarrollador Python,RecluIT,,Remoto,"$30,000 - $60,000 al mes",2022-04-08,Will include implementing configurable OCR data pipelines capable of extracting specific data elements from images.,0,0,30000,60000,45000.0,0,Remoto,0,1,0,0,0
+72,Service Desk N1,Kata Software,,"Álvaro Obregón, CDMX","$8,000 al mes",2022-04-04,"Tenemos presencia en Colombia, Ecuador y Perú.
+ 6 meses a 1 año de experiencia en mesa de ayuda (pueden ser prácticas profesionales).",0,0,8000,8000,8000.0,0, CDMX,0,1,0,0,0
+73,Desarrollador Jr,Recurso Confiable S.A de C.V,,"Tlalnepantla, Méx.","$18,500 al mes",2022-05-04,Recurso confiable con mas de 22 años dedicados en brindar soluciones de recursos humanos y software innovadoras.,0,0,18500,18500,18500.0,0, Méx.,0,1,0,0,0
+74,"Administrador Base de Datos (SQL, PowerBi, Tableau)",GSI,3.6,"Cuauhtémoc, CDMX","$21,453 al mes",2022-04-04,"Licenciatura en Sistemas Computacionales, Informática, o bien, Ingeniería Industrial o Mecánica Titulado.
+ INDISPENSABLE experiencia en Administración de Bases…",0,0,21453,21453,21453.0,0, CDMX,0,1,0,0,0
+75,Técnico de Ensamble de Prensas,Nidec Minster S. de R.L. de C.V.,,"Querétaro, Qro.","$14,000 - $17,000 al mes",2022-04-30,"Use computer for data entry and access to information.
+ Assemble and paint components per specifications and procedures in a safe and team oriented fashion while…",0,0,14000,17000,15500.0,0, Qro.,0,1,0,0,0
+76,Consultor BI,Paxia,,"Remoto temporalmente in Benito Juárez, CDMX","$25,000 - $28,000 al mes",2022-05-01,"*Conocimientos: *Conocimiento en la administración de servidores SQL, dominio del lenguaje SQL (DML y DDL), bases de datos relacionales y no relacionales,…",0,0,25000,28000,26500.0,0, CDMX,0,1,0,0,1
+77,HR TRAINEE,EMPRESA SOCIA DE AMEDIRH,,"Colonia del Valle, CDMX","$8,000 al mes",2022-05-01,"Positive attitude with strong communication and interpersonal skills Resourceful, innovative, forward thinking and committed You're a creative problem solver…",0,0,8000,8000,8000.0,0, CDMX,0,1,0,0,0
+78,EJECUTIVO DE SERVICIO AL CLIENTE & OPS FREIGHT FORWARDER,SEA CARGO LOGISTICS SA DE CV,2.5,"Cuauhtémoc, CDMX+1 ubicación","$23,000 - $25,000 al mes",2022-04-29,"Coordinación adecuada y oportuna con agentes internacionales, proveedores (líneas marítimas, agentes aduanales, transportistas, aseguradoras, custodias,…",0,0,23000,25000,24000.0,0, CDMX+1 ubicación,0,1,0,0,0
+79,INVENTORY CONTROL,FORTUNE FASHIONS BAJA,,"Ensenada, B.C.","$6,000 - $10,000 por semana",2022-04-19,"Collaborate with team members to collect and analyze data.
+ Validate and update data in multiple software systems.
+ Ability to work with minimal supervision.",0,0,6000,10000,8000.0,0, B.C.,0,1,0,0,0
+80,Actuario,RL Calidad Humana,,"Zapopan, Jal.","$30,000 - $35,000 al mes",2022-04-19,"Uso las tecnologías de la información y comunicación para investigar y resolver problemas, producir materiales y transmitir información.",0,0,30000,35000,32500.0,0, Jal.,0,1,0,0,0
+81,TESTER ETL,ALTUMWARE,,"Monterrey, N. L.","$30,000 - $38,000 al mes",2022-04-27,"Execute data scripts and detailed analysis on the scripts.
+ Write test data scripts, based on ETL mapping and BI report artifacts.",0,0,30000,38000,34000.0,0, N. L.,0,1,0,0,0
+82,Becario Analista de Datos-Remoto,Turing Inteligencia Artificial,,Remoto,"$3,000 - $4,000 al mes",2022-05-02,"Somos una empresa Consultora de Big Data en México, desde hace 13 años proporcionamos servicios en Business Analytics mediante Knowledge Discovery in Database …",0,0,3000,4000,3500.0,0,Remoto,0,1,0,0,0
+83,Becario Analista de Datos-Remoto,Turing Inteligencia Artificial,,Remoto,"$3,000 - $4,000 al mes",2022-05-02,"Somos una empresa Consultora de Big Data en México, desde hace 13 años proporcionamos servicios en Business Analytics mediante Knowledge Discovery in Database …",0,0,3000,4000,3500.0,0,Remoto,0,1,0,0,0
+84,DESARROLLADOR SQL,"AXITY MÉXICO, S.A. DE C.V",3.5,"Remoto temporalmente in Azcapotzalco, CDMX","$33,000 - $38,000 al mes",2022-05-04,"Somos una compañía con más de 35 años de trayectoria, tenemos presencia en México, Colombia, Perú, Chile, Argentina y USA.
+ Vacaciones superiores a las de ley.",0,0,33000,38000,35500.0,0, CDMX,0,1,0,0,0
+85,Google Ads Specialist (Remoto-México),Remoteco,,Remoto,"$14,000 - $15,000 al mes",2022-04-30,"Strong analytical skills, including data manipulation and campaign performance analysis skills.
+ PLEASE APPLY THROUGH THIS LINK: *.",0,0,14000,15000,14500.0,0,Remoto,0,1,0,0,0
+86,Desarrollador BI,Mariana Flores Headhunter,,"Querétaro, Qro.","$50,000 - $65,000 al mes",2022-04-28,"3 años de experiencia en posición similar, en empresas transnacionales.
+ Experiencia en desarrollo y diseño arquitectónico de entornos de BI basado en MS SQL…",0,0,50000,65000,57500.0,0, Qro.,0,1,0,0,1
+87,Data Engineer AWS,Capital Empresarial Horizonte,,"Guadalajara, Jal.","$30,000 - $50,000 al año",2022-05-01,"Para laborar en Guadalajara/Ciudad de México/Querétaro*.
+ Escolaridad: * Ingeniería en Sistemas, Informática o afín.
+ Experiencia previa en posición similar.",1,0,30000,50000,40000.0,0, Jal.,0,1,0,0,0
+88,Data Engineer AWS,Capital Empresarial Horizonte,,"Guadalajara, Jal.","$30,000 - $50,000 al año",2022-05-01,"Para laborar en Guadalajara/Ciudad de México/Querétaro*.
+ Escolaridad: * Ingeniería en Sistemas, Informática o afín.
+ Experiencia previa en posición similar.",1,0,30000,50000,40000.0,0, Jal.,0,1,0,0,0
+89,Materials Planner,TE Connectivity,3.7,"Tijuana, B.C.","$25,000 - $30,000 al mes",2022-04-30,Develop and provide short-term production plans as required to maintain the level of service established for our customers.,0,0,25000,30000,27500.0,0, B.C.,0,1,0,0,0
+90,Quality Analyst,Consultoría en Sistemas,4.8,"Tlalpan, CDMX","$24,000 - $26,000 al mes",2022-05-01,"Help Coordinate the delivery of infrastructure services (service desk, end user, mobility, network, host and platforms, data center and server rooms, security…",0,0,24000,26000,25000.0,0, CDMX,0,1,0,0,0
+91,Database analyst,IPG MEDIABRANDS,3.7,"Miguel Hidalgo, CDMX","$20,000 - $30,000 al mes",2022-04-04,"Licenciatura o Ingeniería o carreras afines como: Actuaría, Economía, Matemáticas Aplicada ingeniería con foco en análisis estadístico y Econometría.",0,0,20000,30000,25000.0,0, CDMX,0,1,0,0,0
+92,Instructor para Bootcamp de Data Science,UTEL Universidad Tecnologica Latinoaméricana,,"Gustavo A. Madero, CDMX","$30,000 - $35,000 al mes",2022-04-04,Transmitir tu conocimiento en formato teórico y práctico a los estudiantes y acompañarlos en el desarrollo de las habilidades profesionales enfocadas a Data…,0,0,30000,35000,32500.0,0, CDMX,0,1,0,0,0
+93,Data Warehouse,Tecnologías y Aplicaciones México,,"Guadalajara, Jal.","$45,000 - $55,000 al mes",2022-04-08,"Conocimiento práctico de Collibra (workflow, cataloging, Api integration).
+ Programación de Python en Pyspark interface.
+ 4 días libres al año.",0,0,45000,55000,50000.0,0, Jal.,1,1,1,0,0
+94,Gerente e-commerce y marketing,MAREL DE MÉXICO SA DE CV,2.8,"Miguel Hidalgo, CDMX","$27,000 - $30,000 al mes",2022-04-27,"Gerente de eCommerce y Marketing Digital*.
+ Deseable Maestría en Comunicación, Administración o Marketing Digital.
+ Google Ads y Facebook Ads, Google Analytics.",0,0,27000,30000,28500.0,0, CDMX,0,1,0,0,0
+95,DBA (Data warehouse),Tecnologías y Aplicaciones México,,"Guadalajara, Jal.","$45,000 - $55,000 al mes",2022-04-08,"SQL y análisis de requisitos.
+ Experiencia en modelo onshore/offshore.
+ Experiencia con Oracle, SQL Server, Postgres.
+ 4 días libres al año.",0,0,45000,55000,50000.0,0, Jal.,0,1,0,0,1
+96,Tax Analyst,Wipro Limited,3.8,"Tlaquepaque, Jal.","$20,000 al mes",2022-05-01,"Expert in Excel - ability to deal with and manipulate large amounts of data.
+ Regularly perform audits on data integrity and ensure resolution of discrepancies…",0,0,20000,20000,20000.0,0, Jal.,0,1,0,1,0
+97,Desarrollador Web,Indra,3.7,"Naucalpan, Méx.","$25,000 - $33,000 al mes",2022-04-27,"Spring, Spring boot, Spring Data.
+ Desarrollo de RESTFUL Web Services.
+ Desarrollo de aplicaciones web funcionales usando Angular.",0,0,25000,33000,29000.0,0, Méx.,0,1,0,0,0
+98,Gerente Inteligencia Comercial,HQ_Talento,,"Monterrey, N. L.","$50,000 al mes",2022-04-21,"Somos una empresa 100% mexicana con más de 25 años de experiencia en conectar el talento con las empresas.
+ Ingresar a AIRA y contestar las preguntas y/o pruebas…",0,0,50000,50000,50000.0,0, N. L.,0,1,0,0,0
+99,Sales Representative - B2B (English Speaking/Writing),Southland Polymers,,"Tijuana, B.C.","$30,000 - $50,000 al mes",2022-04-08,"Create and maintain CRM data and sales statistics as required.
+ Position is focused on securing business from prospective and current accounts in an effort to…",0,0,30000,50000,40000.0,0, B.C.,0,1,0,0,0
+100,Customer Service Representative,KINETEK DE MEXICO,3.6,"Apodaca, N. L.","$20,000 - $30,000 al mes",2022-04-28,"2-5 years of call center or data center experience.
+ Provide basic technical support to customers via email, phone, or other methods.",0,0,20000,30000,25000.0,0, N. L.,0,1,0,0,0
+101,"Experiencia en CAN (CANalyzer, CANoe, CANope)",Bendix Commercial Vehicle Systems,3.8,"Apodaca, N. L.","$78,000 al mes",2022-04-10,"Skills with data acquisition systems for vehicle and environmental testing.
+ This position is responsible for design, development, application, testing, and…",0,0,78000,78000,78000.0,0, N. L.,0,1,0,0,0
+102,Instructor para Bootcamp de Data Science,UTEL Universidad Tecnologica Latinoaméricana,,"Gustavo A. Madero, CDMX","$30,000 - $35,000 al mes",2022-04-04,Transmitir tu conocimiento en formato teórico y práctico a los estudiantes y acompañarlos en el desarrollo de las habilidades profesionales enfocadas a Data…,0,0,30000,35000,32500.0,0, CDMX,0,1,0,0,0
+103,Account Manager,Comercializadora Epya,,"Remoto in Colonia Santa Fe, CDMX","$10,000 al mes",2022-04-23,"Administración de recursos digitales agencia y cliente: contenido, estrategia, data, creativo, contenido, desarrollo web, producción audiovisual y medios.",0,0,10000,10000,10000.0,0, CDMX,0,1,0,0,0
+104,ESPECIALISTA DE BASE DE DATOS,EMPRESA SOCIA DE AMEDIRH,,"Cuajimalpa, CDMX","$35,000 - $45,000 al mes",2022-04-04,"RMAN, Data Pump y Data Guard.
+ Liderazgo, visión del negocio, administración del tiempo y toma de decisiones.
+ Salario: $35,000 - $45,000 (negociable) + SGM + SV …",0,0,35000,45000,40000.0,0, CDMX,0,1,0,0,0
+105,Digital Marketing Analyst (Remoto-México),Remoteco,,Remoto,"$28,000 - $29,000 al mes",2022-04-27,"Excellent Excel and data analysis skills, able to read, interpret and use data to inform ad strategies • Understanding of Google Analytics • Digital marketing…",0,0,28000,29000,28500.0,0,Remoto,0,1,0,1,0
+106,Digital Marketing Analyst (Remoto-México),Remoteco,,Remoto,"$28,000 - $29,000 al mes",2022-04-27,"Excellent Excel and data analysis skills, able to read, interpret and use data to inform ad strategies • Understanding of Google Analytics • Digital marketing…",0,0,28000,29000,28500.0,0,Remoto,0,1,0,1,0
+107,Financial Administrator,Fertility Clinic Americas,,"Cancún, QRoo.","$13,000 al mes",2022-05-02,"Gathering, analyzing, and interpreting relevant financial data.
+ Fertility Clinic Americas is pleased to announce the vacancy for the position of a Financial…",0,0,13000,13000,13000.0,0, QRoo.,0,1,0,0,0
+108,Analista de Investigación de Mercados,4S Real Estate,,"Puebla, Pue.","$12,000 - $14,000 al mes",2022-04-29,"Análisis y revisión de data capturada.
+ Preparación de data para generación de reportes.
+ Gestión de exceles por ciudad para levantamiento de campo.",0,0,12000,14000,13000.0,0, Pue.,0,1,0,1,0
+109,Customer Service Analyst,PKC GROUP / Arneses & Accesorios,,"Juárez y Reforma, Chih.","$28,000 al mes",2022-04-24,"Strong Knowledge of Office usage, especially with MS Excel advanced user or expertise on data bases.
+ To assure customer shipments on time, according to lead…",0,0,28000,28000,28000.0,0, Chih.,0,1,0,1,0
+110,"Project manager TI - Data center, instalaciones eléctricas,...",Cgs reclutamiento,,"Naucalpan, Méx.","$20,000 al mes",2022-04-04,"Ingeniero industrial, eléctrico, en sistemas o afín.
+ Experiencia y conocimiento en cableado y estructurado y tableros eléctricos.",0,0,20000,20000,20000.0,0, Méx.,0,1,0,0,0
+111,Senior Developer,Sigue Corporation,3.6,Remoto,"$50,000 - $60,000 al mes",2022-04-24,"The LinkNet senior developer will be responsible for designing, coding, unit testing, debugging, documenting and supporting a high availability system, compound…",0,0,50000,60000,55000.0,0,Remoto,0,1,0,0,0
+112,Full Stack Tech Lead,Aloware,,Remoto,"$81,789 al mes",2022-04-30,"The candidate must be able lead a team to implement innovative software design patterns, optimized SQL databases, and 3rd party API integrations.",0,0,81789,81789,81789.0,0,Remoto,0,1,0,0,1
+113,ANALISTA DE PROCESOS BILINGÜE,REQUORDIT.MX,,"Benito Juárez, CDMX","$15,000 - $17,000 al mes",2022-04-30,"Scheduling meetings for the CloudOCR team.
+ Analyze Data to implement enhancements.
+ Communication channel to the BPO Coordinator.",0,0,15000,17000,16000.0,0, CDMX,0,1,0,0,0
+114,Director Comercial Instalaciones de Automatización,Wurzel Group,,"Colonia Polanco, CDMX","$40,000 - $60,000 al mes",2022-04-30,"Control temperatura de data centers.
+ Descripción: *Importante empresa de instalaciones de automatización y control en complejos industriales, corporativos,…",0,0,40000,60000,50000.0,0, CDMX,0,1,0,0,0
+115,Becario de Big data,Corporativo Hotelero,,"Guadalajara, Jal.","$1,111 - $1,112 al mes",2022-04-28,"Aprende y sigue creciendo profesionalmente.
+ Estudiante de mercadotecnia o afín (Últimos semestres).
+ Disponibilidad mínima de 30hrs / semana (Mínimo).",0,0,1111,1112,1111.5,0, Jal.,0,1,0,0,0
+116,Data Strategy Manager,Teleperformance,3.5,"Monterrey, N. L.+1 ubicación","$35,000 - $40,000 al mes",2022-04-04,"Responsible for identifying and proposing solutions for information for current business needs, developing strategic plans for the growth of BI and Descriptive…",0,0,35000,40000,37500.0,0, N. L.+1 ubicación,0,1,0,0,0
+117,Customer service representative- Call Center,KenisIT,,"Remoto temporalmente in Guadalajara, Jal.","$15,000 - $18,000 al mes",2022-05-01,We are working with a Pharmacy Services company that offers competitive business value through its ability to service the specialty needs of pharmaceutical…,0,0,15000,18000,16500.0,0, Jal.,0,1,0,0,0
+118,Desarrollador .NET,ASPEL,3.8,"Hybrid remote in Álvaro Obregón, CDMX","$17,000 al mes",2022-04-29,"Básicos y sólidos en Object Oriented, Visual Basic, UML, SQL Server, NET, Windows, Microsoft, Visual Studio, Java Scipt/Jquery Oracle Data, SCRUM.",0,0,17000,17000,17000.0,0, CDMX,0,1,0,0,1
+119,QA Automation Engineer (Java / Selenium),Integon Service Co.,4.6,Remoto,"$42,000 - $55,000 al mes",2022-04-22,"Responsible for Assisting and being directly involved in testing web applications using automation.
+ Individuals in this role must be experienced software…",0,0,42000,55000,48500.0,0,Remoto,0,1,0,0,0
+120,ejecutivo de ventas,Data Voice,3.4,"Tlalnepantla, Méx.","$5,700 al mes",2022-05-01,"Experiencia mínima 6 Meses en vetas call center o face to face.
+ Medio tiempo 07:00-13:00 de lunes a viernes a sábado.
+ Bachillerato trunco o en curso (Deseable).",0,0,5700,5700,5700.0,0, Méx.,0,1,0,0,0
+121,Consultant - Cloud Engineers,Genpact,,Remoto,"$25,000 al mes",2022-04-04,"Knowledge of security controls for the Public cloud (encryption of data in motion/rest and key management).
+ We are looking for candidates who have a passion for…",0,0,25000,25000,25000.0,0,Remoto,0,1,0,0,0
+122,Senior Software Developer C# .NET,Integon Service Co.,4.6,Remoto,"$50,000 - $65,000 al mes",2022-04-28,"Understanding of data modeling concepts.
+ Responsible for the analysis, design, coding, testing, documentation and support of new software applications and…",0,0,50000,65000,57500.0,0,Remoto,0,1,0,0,0
+123,Molding Training & Development Leader,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $90,000 al mes",2022-04-28,"We are looking for our Molding Training & Development Leader who will be key to establish, implement and monitor training and development programs for the…",0,0,40000,90000,65000.0,0, Tamps.,0,1,0,0,0
+124,Realtor/Real Estate Agent (Remote),Reliance Fund,,"Remoto in Tijuana, B.C.","$10,000 al mes",2022-04-30,"Communication with clients and partners.
+ Monitoring and maintenance of database.
+ Negotiate Purchase Contracts with Homeowners and Real Estate Agents.",0,0,10000,10000,10000.0,0, B.C.,0,1,0,0,0
+125,Bilingual Recruiter,AgileOne Mexico,,"Remoto in Chihuahua, Chih.","$18,000 - $24,000 al mes",2022-05-01,"Maintain accurate records including timely data entry ATS of recruiting and order fulfillment activity.
+ Experience recruiting for at least 2 years.",0,0,18000,24000,21000.0,0, Chih.,0,1,0,0,0
+126,Real Estate Agent (Realtor),Reliance Fund,,"Apodaca, N. L.","$10,000 al mes",2022-04-26,"The candidate will manage activities related to property research, outreach, property acquisition, property management, due diligence, property sale, including…",0,0,10000,10000,10000.0,0, N. L.,0,1,0,0,0
+127,Planner,Corning Optical Communications,3.8,"Reynosa, Tamps.","$25,000 - $35,000 al mes",2022-05-02,"Ensure accuracy of lead times, safety stock levels, and other critical data are current through periodic ASI system.
+ 2-4 years planning experience.",0,0,25000,35000,30000.0,0, Tamps.,0,1,0,0,0
+128,Telephone Answering Service Representative - English & Frenc...,Explora Communication Services,,"Mérida, Yuc.","$11,500 - $14,000 al mes",2022-05-04,"Our first and foremost focus is to provide exceptional customer care.
+ Depending the type of business, you may also schedule, cancel and change appointments,…",0,0,11500,14000,12750.0,0, Yuc.,0,1,0,0,0
+129,Representante de Ventas,Small World Money Transfer,3.5,"Tijuana, B.C.","$3,030 por semana",2022-04-28,"Encontrar e identificar oportunidades y prospectos calificados.
+ Crear listas de prospectos y cuentas clave.
+ Perfilar cuentas estratégicas identificando personas…",0,0,3030,3030,3030.0,0, B.C.,0,1,0,0,0
+130,Planner,Corning Optical Communications,3.8,"Reynosa, Tamps.","$25,000 - $35,000 al mes",2022-05-02,"Ensure accuracy of lead times, safety stock levels, and other critical data are current through periodic ASI system.
+ 2-4 years planning experience.",0,0,25000,35000,30000.0,0, Tamps.,0,1,0,0,0
+131,Agente telefónico bilingüe - Answering Service Representativ...,Explora Communication Services,,"Mérida, Yuc.","$10,000 - $12,500 al mes",2022-05-04,"Our first and foremost focus is to provide exceptional customer care.
+ Depending on the type of business, you may also schedule, cancel and change appointments,…",0,0,10000,12500,11250.0,0, Yuc.,0,1,0,0,0
+132,Telephone Answering Service Representative - English & Frenc...,Explora Communication Services,,"Mérida, Yuc.","$11,500 - $14,000 al mes",2022-05-04,"Our first and foremost focus is to provide exceptional customer care.
+ Depending the type of business, you may also schedule, cancel and change appointments,…",0,0,11500,14000,12750.0,0, Yuc.,0,1,0,0,0
+133,Software Development Engineer (Web) Full Stack Engineer,iTjuana,,"Tijuana, B.C.","$40,000 - $50,000 al mes",2022-04-30,"You will be hired to help enhance our mobile applications within our existing and new SaaS product offerings.
+ 3+ years experience working full stack development…",0,0,40000,50000,45000.0,0, B.C.,0,1,0,0,0
+134,IoT Software Engineer,iTjuana,,"Tijuana, B.C.","$30,000 al mes",2022-05-04,We are seeking a Software Engineer that can directly impact the experience of patients and clinicians as well as business operations with their breadth of…,0,0,30000,30000,30000.0,0, B.C.,0,1,0,0,0
+135,DevOps engineer,"Randstad, México",3.7,"Remoto temporalmente in Azcapotzalco, CDMX","$50,000 - $70,000 al mes",2022-04-04,"Ability to translate business requirements into analytics solutions and create visualizations levering data modeling tools.
+ Job Types: Full-time, Permanent.",0,0,50000,70000,60000.0,0, CDMX,0,1,0,0,0
+136,SEO Specialist,Baam Digital Impact Experts,,Ciudad de México,"$311,500 - $393,400 al año",2022-04-20,"Develop and execute data driven SEO strategies that increase the company’s search engine result rankings.
+ We combine marketing, design, and offer strategy to…",1,0,311500,393400,352450.0,0,Ciudad de México,0,1,0,0,0
+137,Software Developer,Enhance IT,,"Querétaro, Qro.",$28 por hora,2022-05-04,"Strong knowledge of Software design patterns, data structures and best practices.
+ It’s All About you.
+ We guide you to achieve it.
+ How We Will Help You*.",0,1,28,28,28.0,0, Qro.,0,1,0,0,0
+138,Android Engineer,iTjuana,,"Remoto in Tijuana, B.C.","$30,000 - $50,000 al mes",2022-04-20,"Our employees are an engaging, diverse group of people who believe in the power of great ideas.
+ We hire people with different experiences and perspectives to…",0,0,30000,50000,40000.0,0, B.C.,0,1,0,0,0
+139,Supervisor de Finanzas,Confíe Tijuana,,"Tijuana, B.C.","$33,000 - $34,000 al mes",2022-04-27,"Join a team that owns the timely and correct compilation and approval of Financial Statements, driving standards and maintaining consistency in data.",0,0,33000,34000,33500.0,0, B.C.,0,1,0,0,0
+140,Sr. Molding Engineer,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $60,000 al mes",2022-04-18,"Analyze manufacturing data and suggest improvements.
+ Supervise technical Process group to achieve the critical goals established by the molding department.",0,0,40000,60000,50000.0,0, Tamps.,0,1,0,0,0
+141,Quality Supervisor,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $60,000 al mes",2022-05-02,"Analytic and data driven decision maker.
+ B. *Analyze and resolve Quality problems, using statistical tool, data analysis , advanced Quality skills to ensure…",0,0,40000,60000,50000.0,0, Tamps.,0,1,0,0,0
+142,Agente telefónico bilingüe - Answering Service Representativ...,Explora Communication Services,,"Mérida, Yuc.","$10,000 - $12,500 al mes",2022-05-04,"EXPLORA CS is a Call center with a fun, fast paced environment.
+ We are looking for strong individuals who care about customer service and personal growth.",0,0,10000,12500,11250.0,0, Yuc.,0,1,0,0,0
+143,Atención al cliente / Asistente Administrativo (bilingüe),Avian Premium Finance,,"Tijuana, B.C.","$12,000 - $15,000 al mes",2022-04-29,"Looking for energetic long-term employees who thrive in fast paced environment..
+ No experience require training will be provided..",0,0,12000,15000,13500.0,0, B.C.,0,1,0,0,0
+144,Forensic Engineer-Accident Reconstructionist,"Farahi Law Firm, APC",4.7,"Guadalajara, Jal.","$13,500 al mes",2022-04-04,"Work requires continual attention to detail with the ability to define problems, collect data, establish facts, and draw valid conclusions.",0,0,13500,13500,13500.0,0, Jal.,0,1,0,0,0
+145,Planner,Corning Optical Communications,3.8,"Reynosa, Tamps.","$25,000 - $35,000 al mes",2022-05-02,"Ensure accuracy of lead times, safety stock levels, and other critical data are current through periodic ASI system.
+ 2-4 years planning experience.",0,0,25000,35000,30000.0,0, Tamps.,0,1,0,0,0
+146,Recruiter,USA Vein Clinics,,"Tijuana, B.C.","$20,000 - $25,000 al mes",2022-04-24,"Ability to analyze and interpret applicant data, to develop criteria for candidate selection and make hiring recommendations.",0,0,20000,25000,22500.0,0, B.C.,0,1,0,0,0
+147,Supervisor de Finanzas,Confíe Tijuana,,"Tijuana, B.C.","$33,000 - $34,000 al mes",2022-04-27,"Join a team that owns the timely and correct compilation and approval of Financial Statements, driving standards and maintaining consistency in data.",0,0,33000,34000,33500.0,0, B.C.,0,1,0,0,0
+148,Software QA Engineer / Tester,Dilato Tecnologías de la Información LTDA,,"Tijuana, B.C.","$16,000 - $18,000 al mes",2022-04-30,"Prepare the related test data and configuration environment according to the above plans.
+ We offer comprehensive QA services that combine the best resources…",0,0,16000,18000,17000.0,0, B.C.,0,1,0,0,0
+149,Ejecutivo telefónico Atención a Clientes,Data Voice,3.4,"Tlalnepantla, Méx.","$5,600 al mes",2022-04-30,"Dar seguimiento a las prendas etc.
+ Lunes a viernes de 12:00 pm a 8:00 pm y Sábado de 8:00 am a 4:00 pm.",0,0,5600,5600,5600.0,0, Méx.,0,1,0,0,0
+150,Software Development Engineer (Web) Full Stack Engineer,iTjuana,,"Tijuana, B.C.","$40,000 - $50,000 al mes",2022-04-30,"You will be hired to help enhance our mobile applications within our existing and new SaaS product offerings.
+ 3+ years experience working full stack development…",0,0,40000,50000,45000.0,0, B.C.,0,1,0,0,0
+151,IoT Software Engineer,iTjuana,,"Tijuana, B.C.","$30,000 al mes",2022-05-04,We are seeking a Software Engineer that can directly impact the experience of patients and clinicians as well as business operations with their breadth of…,0,0,30000,30000,30000.0,0, B.C.,0,1,0,0,0
+152,Especialista en Marketing digital (SEM/SEO/GOOGLE ADS),Linkeo.com Inc.,,"Cancún, QRoo.","$13,000 - $18,000 al mes",2022-04-27,"Waze campaigns - Mastery of Analytics, data analysis and reporting tools).
+ ¡Únete a una empresa dinámica y en crecimiento!",0,0,13000,18000,15500.0,0, QRoo.,0,1,0,0,0
+153,Customer Service Agent,Small World Money Transfer,3.5,"Tijuana, B.C.","$16,868 al mes",2022-04-24,"Customer service, complaints, modifications, cancellations, coordination, and any matter related to a transaction.",0,0,16868,16868,16868.0,0, B.C.,0,1,0,0,0
+154,Software Developer,Enhance IT,,"Querétaro, Qro.",$28 por hora,2022-05-04,"Strong knowledge of Software design patterns, data structures and best practices.
+ Full Time, W-2 Employment.
+ 401K Eligibility Post 1 Year with Company.",0,1,28,28,28.0,0, Qro.,0,1,0,0,0
+155,Recruiter,USA Vein Clinics,,"Tijuana, B.C.","$20,000 - $25,000 al mes",2022-04-24,"Ability to analyze and interpret applicant data, to develop criteria for candidate selection and make hiring recommendations.",0,0,20000,25000,22500.0,0, B.C.,0,1,0,0,0
+156,PROPOSAL SPECIALIST,Green Pace Capital,,"Tijuana, B.C.","$4,000 - $5,000 por semana",2022-05-04,"Apply data program techniques and procedures.
+ Comply with data integrity and security policies.
+ Compile, verify accuracy and sort information according to…",0,0,4000,5000,4500.0,0, B.C.,0,1,0,0,0
+157,Software Engineer - Mobile Developers IOS / Android Full Rem...,iTjuana,,Remoto in México,"$50,000 - $60,000 al mes",2022-04-19,"You will write high quality code, using software engineering best practices to ensure your product is high quality and delivered on time.",0,0,50000,60000,55000.0,0,Remoto in México,0,1,0,0,0
+158,Measurement Engineer,Corning Optical Communications,3.8,"Reynosa, Tamps.","$16,000 - $36,000 al mes",2022-04-30,"Knowledge using software that efficiently analyzes large data sets.
+ Utilize statistical tools, engineering data, and DMAIC/DESGN/Lean/MEE methodologies to…",0,0,16000,36000,26000.0,0, Tamps.,0,1,0,0,0
+159,Sr Logistic Supervisor,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $60,000 al mes",2022-05-01,"Monitor and analyze metrics data such as: Verified pallets, shipped pallets, loaded trucks, shipped trucks, over time, absenteeism; review trends of operation…",0,0,40000,60000,50000.0,0, Tamps.,0,1,0,0,0
+160,Molding Training & Development Leader,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $90,000 al mes",2022-04-28,"We are looking for our Molding Training & Development Leader who will be key to establish, implement and monitor training and development programs for the…",0,0,40000,90000,65000.0,0, Tamps.,0,1,0,0,0
+161,Trainer,Comdata,3.1,Ciudad de México,"$15,000 - $16,500 al mes",2022-04-27,"Ability to impact and influence groups based on criteria, concepts, facts and data.
+ Minimum experience of 2 years in contact center in training positions.",0,0,15000,16500,15750.0,0,Ciudad de México,0,1,0,0,0
+162,ADMINISTRADOR DE DATOS JR,Nukote Coating Systems Mexico.,,"Monterrey, N. L.","$16,000 al mes",2022-04-10,"CONOCIMIENTO DE BASE DE DATOS INTERMEDIO/AVANZADO.
+ EXPERIENCIA EN LA IMPLEMENTACIÓN DE UN ERP (DESEADA).",0,0,16000,16000,16000.0,0, N. L.,0,1,0,0,0
+163,Telephone Answering Service Representative - English & Frenc...,Explora Communication Services,,"Mérida, Yuc.","$11,500 - $14,000 al mes",2022-05-04,"Our first and foremost focus is to provide exceptional customer care.
+ Depending the type of business, you may also schedule, cancel and change appointments,…",0,0,11500,14000,12750.0,0, Yuc.,0,1,0,0,0
+164,Software Development Engineer (Web) Full Stack Engineer,iTjuana,,"Tijuana, B.C.","$40,000 - $50,000 al mes",2022-04-30,"You will be hired to help enhance our mobile applications within our existing and new SaaS product offerings.
+ 3+ years experience working full stack development…",0,0,40000,50000,45000.0,0, B.C.,0,1,0,0,0
+165,Desarrollo de aplicaciones móviles Android / iOS,iTjuana,,"Monterrey, N. L.+1 ubicación","$80,000 al mes",2022-04-19,"You will write high quality code, using software engineering best practices to ensure your product is high quality and delivered on time.",0,0,80000,80000,80000.0,0, N. L.+1 ubicación,0,1,0,0,0
+166,Especialista en Marketing digital (SEM/SEO/GOOGLE ADS),Linkeo.com Inc.,,"Cancún, QRoo.","$13,000 - $18,000 al mes",2022-04-27,"Waze campaigns - Mastery of Analytics, data analysis and reporting tools).
+ ¡Únete a una empresa dinámica y en crecimiento!",0,0,13000,18000,15500.0,0, QRoo.,0,1,0,0,0
+167,Representante de Servicio al Cliente,GDIT,3.8,"Monterrey, N. L.","$3,440 - $13,908 al mes",2022-04-16,"Capture biometric data of Applicants, including 10 fingerprints and a digital picture, using the equipment and software provided by GDIT.",0,0,3440,13908,8674.0,0, N. L.,0,1,0,0,0
+168,Injection Molding Process,Plastikon Industries,,"Monterrey, N. L.",$30 por hora,2022-04-04,"Devises sampling procedures and designs and develops forms and instruction for recording, evaluating, and reporting quality and reliability data.",0,1,30,30,30.0,0, N. L.,0,1,0,0,0
+169,Android Developer,iTjuana,,"Remoto in Tijuana, B.C.","$35,000 - $45,000 al mes",2022-05-04,"You will write high quality code, using software engineering best practices to ensure your product is high quality and delivered on time.",0,0,35000,45000,40000.0,0, B.C.,0,1,0,0,0
+170,Quality Supervisor,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $60,000 al mes",2022-05-02,"Analytic and data driven decision maker.
+ B. *Analyze and resolve Quality problems, using statistical tool, data analysis , advanced Quality skills to ensure…",0,0,40000,60000,50000.0,0, Tamps.,0,1,0,0,0
+171,iOS Developer Full Remote Position,iTjuana,,Remoto in México,"$30,000 - $60,000 al mes",2022-04-19,"Implementing web and mobile experiences based on data insights.
+ Applying agile practices to delivery high quality products always on time.",0,0,30000,60000,45000.0,0,Remoto in México,0,1,0,0,0
+172,Trainer,Comdata,3.1,Ciudad de México,"$15,000 - $16,500 al mes",2022-04-27,"Ability to impact and influence groups based on criteria, concepts, facts and data.
+ Minimum experience of 2 years in contact center in training positions.",0,0,15000,16500,15750.0,0,Ciudad de México,0,1,0,0,0
+173,Full Stack Engineer,iTjuana,,"Remoto in Tijuana, B.C.","$35,000 - $65,000 al mes",2022-05-01,"You will be hired to help enhance our mobile applications within our existing and new SaaS product offerings.
+ 3+ years experience working full stack development…",0,0,35000,65000,50000.0,0, B.C.,0,1,0,0,0
+174,Customer Service Agent,Small World Money Transfer,3.5,"Tijuana, B.C.","$16,868 al mes",2022-04-24,"Customer service, complaints, modifications, cancellations, coordination, and any matter related to a transaction.",0,0,16868,16868,16868.0,0, B.C.,0,1,0,0,0
+175,Sr. Molding Engineer,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $60,000 al mes",2022-04-18,"Analyze manufacturing data and suggest improvements.
+ Supervise technical Process group to achieve the critical goals established by the molding department.",0,0,40000,60000,50000.0,0, Tamps.,0,1,0,0,0
+176,Planner,Corning Optical Communications,3.8,"Reynosa, Tamps.","$25,000 - $35,000 al mes",2022-05-02,"Ensure accuracy of lead times, safety stock levels, and other critical data are current through periodic ASI system.
+ 2-4 years planning experience.",0,0,25000,35000,30000.0,0, Tamps.,0,1,0,0,0
+177,Cloud Architect,Genpact,,Remoto,"$50,000 al mes",2022-04-04,"Knowledge of security controls for the Public cloud (encryption of data in motion/rest and key management).
+ We are looking for candidates who have a passion for…",0,0,50000,50000,50000.0,0,Remoto,0,1,0,0,0
+178,iOS Developer Full Remote Position,iTjuana,,Remoto in México,"$30,000 - $60,000 al mes",2022-04-19,"Implementing web and mobile experiences based on data insights.
+ Applying agile practices to delivery high quality products always on time.",0,0,30000,60000,45000.0,0,Remoto in México,0,1,0,0,0
+179,Real Estate Call Center Rep.,Reliance Fund,,"Tampico, Tamps.","$10,000 al mes",2022-04-30,"We are looking for talented, driven, and sales-oriented individuals who excel at the English language and have strong communication and sales skills.",0,0,10000,10000,10000.0,0, Tamps.,0,1,0,1,0
+180,Atención al cliente / Asistente Administrativo (bilingüe),Avian Premium Finance,,"Tijuana, B.C.","$12,000 - $15,000 al mes",2022-04-29,"No experience require training will be provided.*.
+ Developing and maintaining an excellent relationship with customers by responding courteously and…",0,0,12000,15000,13500.0,0, B.C.,0,1,0,1,0
+181,Sr. Molding Engineer,Corning Optical Communications,3.8,"Reynosa, Tamps.","$40,000 - $60,000 al mes",2022-04-18,"Analyze manufacturing data and suggest improvements.
+ Supervise technical Process group to achieve the critical goals established by the molding department.",0,0,40000,60000,50000.0,0, Tamps.,0,1,0,0,0
+182,Bilingual Agent after hours,Rapido Solutions Group,3.6,"Guadalajara, Jal.","$15,000 - $16,000 al mes",2022-05-04,"Answer customer inquiries through telephone calls, chat, text, or e-mail; problem-solve with customers providing excellent service in time and manner.",0,0,15000,16000,15500.0,0, Jal.,0,1,0,1,0
